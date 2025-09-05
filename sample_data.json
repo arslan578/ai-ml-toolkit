@@ -1,0 +1,82 @@
+[
+    {
+        "text": "I absolutely love this product! It's amazing and works perfectly.",
+        "label": "positive"
+    },
+    {
+        "text": "This is terrible. I hate it and it doesn't work at all.",
+        "label": "negative"
+    },
+    {
+        "text": "The product is okay, nothing special but it works.",
+        "label": "neutral"
+    },
+    {
+        "text": "Excellent quality and fast delivery. Highly recommended!",
+        "label": "positive"
+    },
+    {
+        "text": "Waste of money. Poor quality and slow service.",
+        "label": "negative"
+    },
+    {
+        "text": "It's a decent product for the price. No complaints.",
+        "label": "neutral"
+    },
+    {
+        "text": "Outstanding service and great customer support!",
+        "label": "positive"
+    },
+    {
+        "text": "Very disappointed with this purchase. Not worth it.",
+        "label": "negative"
+    },
+    {
+        "text": "Average product, meets basic expectations.",
+        "label": "neutral"
+    },
+    {
+        "text": "Fantastic experience! Will definitely buy again.",
+        "label": "positive"
+    },
+    {
+        "text": "The worst customer service I've ever experienced.",
+        "label": "negative"
+    },
+    {
+        "text": "It's fine, does what it's supposed to do.",
+        "label": "neutral"
+    },
+    {
+        "text": "Amazing quality! Exceeded all my expectations.",
+        "label": "positive"
+    },
+    {
+        "text": "Complete waste of time and money.",
+        "label": "negative"
+    },
+    {
+        "text": "Standard product, nothing extraordinary.",
+        "label": "neutral"
+    },
+    {
+        "text": "Perfect! Exactly what I was looking for.",
+        "label": "positive"
+    },
+    {
+        "text": "Horrible experience, would not recommend to anyone.",
+        "label": "negative"
+    },
+    {
+        "text": "It's acceptable, serves its purpose.",
+        "label": "neutral"
+    },
+    {
+        "text": "Brilliant! Best purchase I've made this year.",
+        "label": "positive"
+    },
+    {
+        "text": "Terrible quality, broke after one day.",
+        "label": "negative"
+    }
+]
